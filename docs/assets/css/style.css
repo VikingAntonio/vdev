@@ -1,0 +1,134 @@
+.navbar-brand img {
+  width: 130px;
+}
+
+section #imgform {
+  width: 130px;
+}
+
+#carousel-1 {
+  width: 100%;
+}
+
+#carousel-1 img {
+  width: 100%;
+}
+
+.portada1 {
+  width: 100%;
+  height: 350px;
+  background: url("/assets/img/PaginA%20web%20y%20e-commerce.png?h=f59bc0e06426732f107e1c36d4c5a025");
+  background-position: center;
+  background-size: contain;
+  background-attachment: fixed;
+}
+
+@media (max-width: 600px) {
+  .portada1 {
+    background: url("/assets/img/PaginA%20web%20y%20e-commerce.png?h=f59bc0e06426732f107e1c36d4c5a025");
+    background-size: contain;
+    background-position: center;
+  }
+}
+
+.portada2 {
+  width: 100%;
+  height: 350px;
+  background: url("/assets/img/PaginA%20web%20y%20e-commerce%20(2).png?h=f9441d4601dbad7e2d6f71b369b06cae");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+@media (max-width: 600px) {
+  .portada2 {
+    width: 100%;
+    height: 200px;
+    background: url("/assets/img/PaginA%20web%20y%20e-commerce%20(2).png?h=f9441d4601dbad7e2d6f71b369b06cae");
+    background-size: contain;
+    background-position: center;
+  }
+}
+
+.portada3 {
+  width: 100%;
+  height: 350px;
+  background: url("/assets/img/PaginA%20web%20y%20e-commerce%20(1).png?h=b0214fe16db3247d5538838d40fa5a85");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+@media (max-width: 600px) {
+  .portada3 {
+    width: 100%;
+    height: 200px;
+    background: url("/assets/img/PaginA%20web%20y%20e-commerce%20(1).png?h=b0214fe16db3247d5538838d40fa5a85");
+    background-size: contain;
+    background-position: center;
+  }
+}
+.mantenimiento{
+  width: 80%;
+  margin: auto;
+  text-align: center;
+
+}
+.mantenimiento img{
+  width: 100%;
+ 
+}
+model-viewer {
+  width: 100%;
+  height: 100%;
+  margin: auto;
+}
+.agradecimiento {
+  text-align: center;
+  padding: 10px;
+  font-family: 'Roboto';
+  font-weight: 900;
+}
+
+.botonesthanks {
+  text-align: center;
+  max-width: 700px;
+  margin: auto;
+  margin-top: 10px;
+  z-index: 1000;
+}
+
+.botonesthanks .btn {
+  margin: 5px;
+  border: none;
+  background: #5cceff;
+  color: #fff;
+  width: 45%;
+  border-radius: 15px;
+}
+
+.thanks3d {
+  width: 100%;
+  height: 300px;
+  background: url("/assets/img/apps.png?h=cb6ee6e90f8afcadc3982afec3a85966");
+  background-size: cover;
+  background-position: center;
+}
+
+.iconos {
+  width: 30%;
+  margin: auto;
+  font-size: 40px;
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+@media (max-width: 576px) {
+  .iconos {
+    width: 100%;
+    justify-content: space-evenly;
+  }
+}
+
