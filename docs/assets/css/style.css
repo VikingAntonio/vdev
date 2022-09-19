@@ -17,7 +17,7 @@ section #imgform {
 .portada1 {
   width: 100%;
   height: 350px;
-  background: url("/assets/img/PaginA%20web%20y%20e-commerce.png?h=f59bc0e06426732f107e1c36d4c5a025");
+  background: url("./PaginA%20web%20y%20e-commerce.png");
   background-position: center;
   background-size: contain;
   background-attachment: fixed;
@@ -25,7 +25,7 @@ section #imgform {
 
 @media (max-width: 600px) {
   .portada1 {
-    background: url("/assets/img/PaginA%20web%20y%20e-commerce.png?h=f59bc0e06426732f107e1c36d4c5a025");
+    background: url("./PaginA%20web%20y%20e-commerce.png");
     background-size: contain;
     background-position: center;
   }
@@ -34,7 +34,7 @@ section #imgform {
 .portada2 {
   width: 100%;
   height: 350px;
-  background: url("/assets/img/PaginA%20web%20y%20e-commerce%20(2).png?h=f9441d4601dbad7e2d6f71b369b06cae");
+  background: url("./PaginA%20web%20y%20e-commerce%20(2).png");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -44,7 +44,7 @@ section #imgform {
   .portada2 {
     width: 100%;
     height: 200px;
-    background: url("/assets/img/PaginA%20web%20y%20e-commerce%20(2).png?h=f9441d4601dbad7e2d6f71b369b06cae");
+    background: url("./PaginA%20web%20y%20e-commerce%20(2).png");
     background-size: contain;
     background-position: center;
   }
@@ -53,7 +53,7 @@ section #imgform {
 .portada3 {
   width: 100%;
   height: 350px;
-  background: url("/assets/img/PaginA%20web%20y%20e-commerce%20(1).png?h=b0214fe16db3247d5538838d40fa5a85");
+  background: url("./PaginA%20web%20y%20e-commerce%20(1).png");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -63,7 +63,7 @@ section #imgform {
   .portada3 {
     width: 100%;
     height: 200px;
-    background: url("/assets/img/PaginA%20web%20y%20e-commerce%20(1).png?h=b0214fe16db3247d5538838d40fa5a85");
+    background: url("./PaginA%20web%20y%20e-commerce%20(1).png");
     background-size: contain;
     background-position: center;
   }
